@@ -50,6 +50,7 @@ This program allows users to generate highly secure passwords based on customiza
 
 ```bash
 python password_generator.py
+```
 
 ---
 
