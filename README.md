@@ -36,16 +36,20 @@ This program allows users to generate highly secure passwords based on customiza
 ## ⚙️ Installation
 
 1. Clone the repository:
-
+```bash
    git clone https://github.com/darshanpalankar/password-generator.git
+```
 
 2. Navigate to the project directory:
 
-   cd password-generator
+   ```bash
+  cd password-generator
+  ```
 
 3. Run the program:
-
+```bash
    python password_generator.py
+```
 
 ---
 
