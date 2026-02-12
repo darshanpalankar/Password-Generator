@@ -43,12 +43,12 @@ This program allows users to generate highly secure passwords based on customiza
 2. Navigate to the project directory:
 
    ```bash
-  cd password-generator
+    cd password-generator
   ```
 
 3. Run the program:
 ```bash
-   python password_generator.py
+   python PasswordGenerator.py
 ```
 
 ---
