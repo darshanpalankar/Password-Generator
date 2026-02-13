@@ -1,7 +1,7 @@
 # 🔐 Password Generator
 
-A secure and customizable password generator built using **Python**.  
-This project generates strong and random passwords using a combination of uppercase letters, lowercase letters, numbers, and special characters to enhance user security.
+- A secure and customizable password generator built using **Python**.  
+- This project generates strong and random passwords using a combination of uppercase letters, lowercase letters, numbers, and special characters to enhance user security.
 
 ---
 
