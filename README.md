@@ -37,19 +37,19 @@ This program allows users to generate highly secure passwords based on customiza
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/darshanpalankar/password-generator.git
+git clone https://github.com/darshanpalankar/password-generator.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-    cd password-generator
+cd Password-Generator
 ```
 
 3. Run the program:
 
 ```bash
-python password_generator.py
+python PasswordGenerator.py
 ```
 
 ---
@@ -64,16 +64,16 @@ Generated Password: A7@kP2!zQ9#x
 
 ## 📂 Project Structure
 
-password-generator/  
-│── password_generator.py  
+Password-Generator/  
+│── PasswordGenerator.py  
 │── README.md  
 
 ---
 
 ## 🔒 Security Approach
 
-The program uses Python’s built-in libraries to randomly select characters from different character sets and combine them securely.  
-Randomized character selection ensures unpredictability and stronger password generation.
+- The program uses Python’s built-in libraries to randomly select characters from different character sets and combine them securely.  
+- Randomized character selection ensures unpredictability and stronger password generation.
 
 ---
 
