@@ -1,10 +1,11 @@
 from pyfiglet import Figlet
 import random
+import string
 
 x = Figlet(font='slant', width = 550)
 print(x.renderText('Password Generator'))
 
-chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890@#$%&*^?~"
+chars = string.ascii_letters + string.digits + "~!@#$%&*?"
 
 # Class for Password generator
 class PasswordGenerator:
@@ -49,4 +50,5 @@ def main():
             print('\nInvalid Choice.\n')
             
 if __name__ == '__main__':
+
     main()
